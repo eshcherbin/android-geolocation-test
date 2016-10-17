@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Geolocation Test</string>
+    <string name="connection_failed">Connection failed</string>
+</resources>
